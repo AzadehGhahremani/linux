@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T07:44:08.047Z" agent="5.0 (Windows)" etag="4LAS7waHXGvn4jyBj24Z" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-08T07:47:54.622Z" agent="5.0 (Windows)" etag="l6EZ02mESEhxlbWJbJuY" version="14.8.5" type="github">
   <diagram id="x78PnDL6jnfiS5PFGhZx" name="Page-1">
     <mxGraphModel dx="782" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -127,6 +127,30 @@
         </mxCell>
         <mxCell id="lLeo_c5WaelX1b84BLqC-14" value="\(u_d\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="90" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lLeo_c5WaelX1b84BLqC-15" value="\(e_u\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lLeo_c5WaelX1b84BLqC-16" value="\(e_\gamma\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lLeo_c5WaelX1b84BLqC-17" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lLeo_c5WaelX1b84BLqC-18" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lLeo_c5WaelX1b84BLqC-19" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lLeo_c5WaelX1b84BLqC-20" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lLeo_c5WaelX1b84BLqC-21" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lLeo_c5WaelX1b84BLqC-22" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
